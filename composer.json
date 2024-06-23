@@ -12,5 +12,9 @@
             "email": "valeron-74@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+    ]
+
 }
